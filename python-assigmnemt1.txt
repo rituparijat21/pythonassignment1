@@ -1,0 +1,25 @@
+1.print("hello ritu")
+
+2 print("acad"="view")
+
+3 x=input("enter the value")
+print("the value of x",x)
+ y=input("enter the value")
+print("the value of y",y)
+ z=input("enter the value")
+print("the value of z",z)
+
+
+4. print ('''"lets get started"''')
+
+
+5.  s="acadview"
+    course="python"
+    fee=5000
+    print('%s %s %d'%(s,course,fee))
+
+
+6.  print('%s"%d'%(name,salary))
+
+
+
